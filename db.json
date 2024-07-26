@@ -1,0 +1,51 @@
+{
+    "locations": [
+        {
+            "location": "Adelbergpark 2, 3920 Lommel",
+            "cinemaName": "UGC"
+        },
+        {
+            "location": "Van Ertbornstraat 17, 2018 Antwerpen",
+            "cinemaName": "UGC"
+        },
+        {
+            "location": "Spuibeekstraat 5, 2800 Mechelen",
+            "cinemaName": "UGC"
+        },
+        {
+            "location": "Graatakker 99, 2300 Turnhout",
+            "cinemaName": "UGC"
+        },
+        {
+            "location": "President Kennedylaan 100, 8500 Kortrijk",
+            "cinemaName": "Kinepolis"
+        }
+    ],
+    "reviews": [
+        {
+            "reviewer": "Jenne Van Braband",
+            "review": "Midnight Echo is a pulse-pounding thriller that kept me on the edge of my seat from start to finish. The blend of suspense and drama is perfectly executed, and the performances are top-notch. A must-watch for fans of the genre!",
+            "score": 5
+        },
+        {
+            "reviewer": "Ferre Kerkhofs",
+            "review": "This film is a gripping rollercoaster of emotions. The storyline is both original and captivating, with unexpected twists that kept me guessing. The cinematography is stunning and really adds to the overall suspense. Highly recommended!",
+            "score": 4.5
+        },
+        {
+            "reviewer": "Mathias Verhoeven",
+            "review": "Midnight Echo delivers everything you’d want from a thriller—intense suspense, a brilliant cast, and an engaging plot. The atmosphere and tension are built up expertly, making it a film you won't easily forget.",
+            "score": 4.8
+        },
+        {
+            "reviewer": "Yusuf Akdogan",
+            "review": "A masterclass in suspense! Midnight Echo excels with its well-crafted narrative and striking visuals. The film's ability to keep you guessing and the strong performances make it a standout thriller. Don't miss it!",
+            "score": 4.4
+        },
+        {
+            "reviewer": "Thomas Hermans",
+            "review": "Despite its promising premise, Midnight Echo falls flat with a predictable plot and underwhelming performances. The suspense doesn’t build as expected, and the pacing drags in several places. It’s a missed opportunity for what could have been a great thriller.",
+            "score": 1.8
+        }
+    ]
+}
